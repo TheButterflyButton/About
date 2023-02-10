@@ -1,11 +1,13 @@
 # About The Butterfly Button ([<img src="https://butterfly-button.web.app/img/facebook.png" alt="LinkedIn" width="30"/>](https://www.facebook.com/thebutterflybutton), [<img src="https://butterfly-button.web.app/img/linkedin.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/company/butterfly-button), [our website](https://butterfly-button.web.app))
 
-
-
 [![Platform-Flutter](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://github.com/TheButterflySDK/Flutter)
 [![Platform-iOS](https://img.shields.io/badge/Platform-iOS-lightgray.svg)](https://github.com/TheButterflySDK/iOS)
 [![Platform-Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/TheButterflySDK/Android)
 [![Platform](https://img.shields.io/badge/Platform-Web-white.svg)](https://github.com/TheButterflySDK/Web)
+
+## What is, exactly, The Butterfly Button?
+
+[![YouTube - What is, exactly, The Butterfly Button?](https://img.youtube.com/vi/vpCAkxZk8gI/0.jpg)](https://www.youtube.com/watch?v=vpCAkxZk8gI)
 
 ## TL;DR
 Let’s stop the domestic violence together. Use our SDK to allow your users consult with domestic violence experts around the world, discreetly, from your mobile app or website.
