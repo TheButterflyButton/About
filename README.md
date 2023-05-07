@@ -7,7 +7,7 @@
 
 ## What is, exactly, The Butterfly Button?
 
-[![YouTube - What is, exactly, The Butterfly Button?](https://img.youtube.com/vi/IZKzbkUj3DI/0.jpg)](https://www.youtube.com/watch?v=IZKzbkUj3DI)
+[![YouTube - What is, exactly, The Butterfly Button?](https://img.youtube.com/vi/IZKzbkUj3DI/0.jpg)](https://www.youtube.com/watch?v=uyKVbDYggUY)
 
 ## TL;DR
 Let’s stop the domestic violence together. Use our SDK to allow your users consult with domestic violence experts around the world, discreetly, from your mobile app or website.
