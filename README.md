@@ -25,7 +25,7 @@ Do you own a mobile application or website? That’s awesome! Now you can put ou
 Our SDK is light, free to use, super easy to install and harmless. You can check out our public code online in [GitHub](https://github.com/TheButterflySDK?tab=repositories), it doesn’t require any special permission and won’t operate by itself. All you need to do is to present our reporter in case the user wants to (you’ll need an API key for that) and we’ll take it from there.
 
 ### Plug n' Play 🔌
-We’re currently available for easy installation in [web](https://github.com/TheButterflySDK/Web), [iOS](https://github.com/TheButterflySDK/iOS), [Android](https://github.com/TheButterflySDK/Android) and [Flutter for mobile](https://github.com/TheButterflySDK/Flutter).
+We’re currently available for easy installation in [web](https://github.com/TheButterflySDK/Web), [iOS](https://github.com/TheButterflySDK/iOS), [Android](https://github.com/TheButterflySDK/Android), [Flutter for mobile](https://github.com/TheButterflySDK/Flutter) and [React Native](https://github.com/TheButterflySDK/React-Native).
 
 
 ## User experience when using the Butterfly Button
