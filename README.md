@@ -10,13 +10,13 @@
 
 [![YouTube - What is, exactly, The Butterfly Button?](https://img.youtube.com/vi/IZKzbkUj3DI/0.jpg)](https://www.youtube.com/watch?v=uyKVbDYggUY)
 
-## TL;DR
+### TL;DR
 Let’s stop the domestic violence together. Use our SDK to allow your users consult with domestic violence experts around the world, discreetly, from your mobile app or website.
 
 
-## Full explanation below 🤓
+### Full explanation below 🤓
 
-#### The Butterfly Button is your chance to take an active part in the fight against domestic violence.
+#### The Butterfly Button is your chance to become an active part in the fight against domestic violence.
 
 ### How? (what do we suggest?) 😯
 Do you own a mobile application or website? That’s awesome! Now you can put our **open-source** button inside your app / website and help anyone in a need, globally!
@@ -38,11 +38,9 @@ See these examples to get some inspiration:
 
 <img src="https://user-images.githubusercontent.com/100164625/203774493-afe13433-7839-47aa-bc80-a1cef0c32f6d.jpeg" alt="pro-mas" style="width:200px;"/> <img src="https://user-images.githubusercontent.com/100164625/203774502-d0cee942-24f5-4d39-973a-cb6c392ec99e.jpeg" alt="vaad-max" style="width:200px;"/>
 
+## The Buttefrly Button Logo
+Feel free to use our [SVG](https://butterfly-button.web.app/img/bf-logo.svg), please don't change its colors so all users will easily recognize it.
 
-
-###
-
-
-Thanks and good luck to us all!
+### Thanks and good luck to us all!
 
 The Butterfly Button Team
