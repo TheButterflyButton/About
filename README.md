@@ -13,8 +13,21 @@
 ### TL;DR
 Let’s stop the domestic violence together. Use our SDK to allow your users consult with domestic violence experts around the world, discreetly, from your mobile app or website.
 
+## Terms of Use for the Hosted Service
 
-### Full explanation below 🤓
+Our repositories contains **open source code**, licensed under the Apache License.
+You are free to use, modify, and distribute the code as permitted under that license.
+
+Note that **using our hosted service** is subject to **separate Terms of Use**.
+By using our service, you agree to these terms.
+
+👉 [Click here to read the Terms of Use for the API service](https://www.butterfly-button.com/en/cavo-software-developer-kit-license-agreement/)
+
+Please note:
+- The service is not part of this open source repository.
+- These terms **do not apply** to the code itself — only to use of the hosted service.
+
+## Full explanation below 🤓
 
 #### The Butterfly Button is your chance to become an active part in the fight against domestic violence.
 
