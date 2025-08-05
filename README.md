@@ -18,9 +18,8 @@ Let’s stop the domestic violence together. Use our SDK to allow your users con
 Our repositories contains **open source code**, licensed under the Apache License.
 You are free to use, modify, and distribute the code as permitted under that license.
 
-Note that **using our hosted service** is subject to **separate Terms of Use**.
-By using our service, you agree to these terms.
-
+Note that **integrating The Butterfly Button in your digital asset (web, app or any other host)** is subject to a **separate Terms of Use**.
+By using our button, or of any our service, you agree to these terms:
 👉 [Click here to read the Terms of Use for the API service](https://www.butterfly-button.com/en/cavo-software-developer-kit-license-agreement/)
 
 Please note:
