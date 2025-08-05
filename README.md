@@ -22,10 +22,6 @@ Note that **integrating The Butterfly Button in your digital asset (web, app or 
 By using our button, or of any our service, you agree to these terms:
 👉 [Click here to read the Terms of Use for the API service](https://www.butterfly-button.com/en/cavo-software-developer-kit-license-agreement/)
 
-Please note:
-- The service is not part of this open source repository.
-- These terms **do not apply** to the code itself — only to use of the hosted service.
-
 ## Full explanation below 🤓
 
 #### The Butterfly Button is your chance to become an active part in the fight against domestic violence.
