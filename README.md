@@ -13,15 +13,6 @@
 ### TL;DR
 Let’s stop the domestic violence together. Use our SDK to allow your users consult with domestic violence experts around the world, discreetly, from your mobile app or website.
 
-## Terms of Use for the Hosted Service
-
-Our repositories contains **open source code**, licensed under the Apache License.
-You are free to use, modify, and distribute the code as permitted under that license.
-
-Note that **integrating The Butterfly Button in your digital asset (web, app or any other host)** is subject to a **separate Terms of Use**.
-By using our button, or of any our service, you agree to these terms:
-👉 [Click here to read the Terms of Use for the API service](https://www.butterfly-button.com/en/cavo-software-developer-kit-license-agreement/)
-
 ## Full explanation below 🤓
 
 #### The Butterfly Button is your chance to become an active part in the fight against domestic violence.
@@ -48,6 +39,15 @@ See these examples to get some inspiration:
 
 ## The Buttefrly Button Logo
 Feel free to use our [SVG](https://butterfly-button.web.app/img/bf-logo.svg), please don't change its colors so all users will easily recognize it.
+
+## Terms of Use for the Hosted Service
+
+Our repositories contains **open source code**, licensed under the Apache License.
+You are free to use, modify, and distribute the code as permitted under that license.
+
+Note that **integrating The Butterfly Button in your digital asset (web, app or any other host)** is subject to a **separate Terms of Use**.
+By using our button, or of any our service, you agree to these terms:
+👉 [Click here to read the Terms of Use for the API service](https://www.butterfly-button.com/en/cavo-software-developer-kit-license-agreement/)
 
 ### Thanks and good luck to us all!
 
